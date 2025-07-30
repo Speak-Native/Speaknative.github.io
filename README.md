@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+ lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -81,4 +81,3 @@
     <p>&copy; 2025 Speak Native - With Mostafa Ramadan</p>
   </footer>
 </body>
-</html>
